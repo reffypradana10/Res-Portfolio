@@ -1,0 +1,18 @@
+:root {
+  height: 10000px;
+}
+
+.jumbotron {
+  background-image: url("https://cdn.pixabay.com/photo/2017/06/12/03/33/seo-2394237_1280.jpg");
+  height: 92.5vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.jumbo2 {
+  color: rgb(17, 12, 12);
+  text-align: center;
+}
